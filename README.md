@@ -36,7 +36,9 @@ The analysis incorporates booking data from two primary sources:
    git clone [repository-url]
 
 2. **Install Dependencies**: Install the necessary Python packages.
-```bash
    pip install pandas jupyter
 
 3. **Run the Jupyter Notebook**: Open the project’s Jupyter Notebook and run the analysis.
+
+## Conclusion
+The analysis performed in this project provides a comprehensive view of AtliQ Grand's current challenges and opportunities in the hospitality market. By applying the insights gained, AtliQ Grand can implement data-driven strategies to improve its market share and revenue performance.
