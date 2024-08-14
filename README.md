@@ -29,16 +29,5 @@ The analysis incorporates booking data from two primary sources:
 - **Market Positioning**: Insights into the hotel's market share compared to competitors, with actionable strategies to reclaim lost ground.
 - **Strategic Recommendations**: Data-driven recommendations to enhance AtliQ Grand's competitive advantage, including pricing adjustments, promotional strategies, and customer engagement initiatives.
 
-## How to Run the Project
-
-1. **Clone the Repository**: Clone the project repository to your local machine.
-   ```bash
-   git clone [repository-url]
-
-2. **Install Dependencies**: Install the necessary Python packages.
-   pip install pandas jupyter
-
-3. **Run the Jupyter Notebook**: Open the project’s Jupyter Notebook and run the analysis.
-
 ## Conclusion
 The analysis performed in this project provides a comprehensive view of AtliQ Grand's current challenges and opportunities in the hospitality market. By applying the insights gained, AtliQ Grand can implement data-driven strategies to improve its market share and revenue performance.
